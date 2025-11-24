@@ -1,0 +1,62 @@
+[
+     {
+    "id":"organic1",
+    "image":"/Organic-Food/product-img1.png",
+    "title":" سبزیجات تازه بروکلی از مزارع داخلی",
+    "price":"321000",
+    "lessprice":"417000",
+    "review":"(124)",
+    "sold":"8/15",
+    "sale":"30%"
+   } ,
+     {
+    "id":"organic2",
+    "image":"/Organic-Food/product-img2.png",
+    "title":" سبزیجات تازه بروکلی از مزارع داخلی",
+    "price":"321000",
+    "lessprice":"417000",
+    "review":"(124)",
+    "sold":"8/15",
+    "sale":"30%"
+   } ,
+     {
+    "id":"organic3",
+    "image":"/Organic-Food/product-img3.png",
+    "title":" سبزیجات تازه بروکلی از مزارع داخلی",
+    "price":"521000",
+    "lessprice":"617000",
+    "review":"(124)",
+    "sold":"8/15",
+    "sale":"New"
+   } ,
+     {
+    "id":"organic4",
+    "image":"/Organic-Food/product-img4.png",
+    "title":" سبزیجات تازه بروکلی از مزارع داخلی",
+    "price":"321000",
+    "lessprice":"417000",
+    "review":"(124)",
+    "sold":"8/15",
+    "sale":"30%"
+   } ,
+     {
+    "id":"organic5",
+    "image":"/Organic-Food/product-img5.png",
+    "title":" سبزیجات تازه بروکلی از مزارع داخلی",
+    "price":"121000",
+    "lessprice":"317000",
+    "review":"(124)",
+    "sold":"8/15",
+    "sale":"30%"
+   } ,
+   {
+    "id":"organic6",
+    "image":"/Organic-Food/product-img6.png",
+    "title":" سبزیجات تازه بروکلی از مزارع داخلی",
+    "price":"321000",
+    "lessprice":"417000",
+    "review":"(124)",
+    "sold":"8/15",
+    "sale":"30%"
+   } 
+]

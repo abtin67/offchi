@@ -1,0 +1,42 @@
+[
+    {
+        "id":"BestSales1",
+        "image":"/bestSales/best-sell1.png",
+        "title":" سبزیجات تازه بروکلی از مزارع داخلی",
+        "price":"200000",
+        "lessprice":"310000",
+        "review":"(200)",
+        "sold":"18/35",
+        "sale":"35%"
+    },
+    {
+        "id":"BestSales2",
+        "image":"/bestSales/best-sell2.png",
+        "title":" سبزیجات تازه بروکلی از مزارع داخلی",
+        "price":"250000",
+        "lessprice":"310000",
+        "review":"(1500)",
+        "sold":"22/40",
+        "sale":"30%"
+    },
+    {
+        "id":"BestSales3",
+        "image":"/bestSales/best-sell3.png",
+        "title":" سبزیجات تازه بروکلی از مزارع داخلی",
+        "price":"280000",
+        "lessprice":"540000",
+        "review":"(1400)",
+        "sold":"15/25",
+        "sale":"New"
+    },
+    {
+        "id":"BestSales4",
+        "image":"/bestSales/best-sell4.png",
+        "title":" سبزیجات تازه بروکلی از مزارع داخلی",
+        "price":"153500",
+        "lessprice":"310700",
+        "review":"(312)",
+        "sold":"18/35",
+        "sale":"35%"
+    }
+]

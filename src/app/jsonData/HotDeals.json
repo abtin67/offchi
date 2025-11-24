@@ -1,0 +1,42 @@
+[
+    {
+        "id":"HotDeals1",
+        "image":"/HotDeals/product-img1.png",
+        "title":"شیر بادام بدون شکر مارسل – پنتری مدرن",
+        "price":"150000",
+        "lassprice":"250000",
+        "review":"(700)",
+        "sold":"18/35",
+        "sale":"35%"
+    },
+     {
+        "id":"HotDeals2",
+        "image":"/HotDeals/product-img2.png",
+        "title":"شیر کامل ارگانیک اُرگانیکس غنی‌شده با ویتامین D",
+        "price":"250000",
+        "lassprice":"400000",
+        "review":"(900)",
+        "sold":"22/40",
+        "sale":"30%"
+    },
+         {
+        "id":"HotDeals3",
+        "image":"/HotDeals/product-img3.png",
+        "title":"نان ارگانیک سبوس‌دار با دانه‌های خوراکی",
+        "price":"250000",
+        "lassprice":"450000",
+        "review":"(600)",
+        "sold":"15/25",
+        "sale":"New"
+    },
+     {
+        "id":"HotDeals4",
+        "image":"/HotDeals/product-img4.png",
+        "title":"آب پرتقال ۱۰۰٪ طبیعی تروپیکانا بدون پالپ",
+        "price":"350000",
+        "lassprice":"450000",
+        "review":"(1000)",
+        "sold":"8/15",
+        "sale":"50%"
+    }
+]

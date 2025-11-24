@@ -1,0 +1,121 @@
+[
+  {
+    "id": "Recommend1",
+    "image": "/Recommend/product-img1.png",
+    "title":  "مکمل غذایی ویتامین C-500 آنتی‌اکسیدان",
+    "price": "200000",
+    "lessprice": "250000",
+    "review": "(1700)",
+    "sold": "18/35",
+    "sale": ""
+  },
+  {
+    "id": "Recommend2",
+    "image": "/public/Recommend/product-img2.png",
+    "title": "شیر بادام بدون شکر مارکلز مدرن پنتری",
+    "price": "250000",
+    "lessprice": "500000",
+    "review": "(1700)",
+    "sold": "22/40",
+    "sale": "50%"
+  },
+  {
+    "id": "Recommend3",
+    "image": "/Recommend/product-img3.png",
+    "title": "شیر ارگانیک O Organics با ویتامین D",
+    "price": "200000",
+    "lessprice": "250000",
+    "review": "(1700)",
+    "sold": "18/35"
+  },
+  {
+    "id": "Recommend4",
+    "image": "/Recommend/product-img4.png",
+    "title": "نان دیو کیلر برِد با ۲۱ غله و دانه، سرشار از پروتئین و فیبر",
+    "price": "50000",
+    "lessprice": "150000",
+    "review": "(1700)",
+    "sold": "18/35",
+    "sale": "35%"
+  },
+  {
+    "id": "Recommend5",
+    "image": "/Recommend/product-img5.png",
+    "title": "ماست توت‌فرنگی کم‌چرب لوسرن",
+    "price": "100000",
+    "lessprice": "150000",
+    "review": "(1700)",
+    "sold": "18/35",
+    "sale": "5%"
+  },
+  {
+    "id": "Recommend6",
+    "image": "/Recommend/product-img6.png",
+    "title": "پنیر مخلوط سه‌گانه چدار تیلاموک",
+    "price": "200000",
+    "lessprice": "250000",
+    "review": "(1700)",
+    "sold": "18/35",
+    "sale": "50%"
+  },
+  {
+    "id": "Recommend7",
+    "image": "/Recommend/product-img7.png",
+    "title":"کشمش طبیعی شیرین سان‌مید",
+    "price": "200000",
+    "lessprice": "250000",
+    "review": "(1700)",
+    "sold": "30/35",
+    "sale": "New"
+  },
+  {
+    "id": "Recommend8",
+    "image": "/Recommend/product-img8.png",
+    "title":  "بطری آبمیوه هندوانه تازه",
+    "price": "300000",
+    "lessprice": "350000",
+    "review": "(1200)",
+    "sold": "40/50",
+    "sale": "50%"
+  },
+  {
+    "id": "Recommend9",
+    "image": "/Recommend/product-img9.png",
+    "title": "پنیر مخلوط سه‌گانه چدار تیلاموک",
+    "price": "550000",
+    "lessprice": "7000000",
+    "review": "(1900)",
+    "sold": "30/45",
+    "sale": "New"
+  },
+  {
+    "id": "Recommend10",
+    "image": "/Recommend/product-img10.png",
+    "title": "سالمون پرورشی اقیانوس اطلس گود اند گدر",
+    "price": "400000",
+    "lessprice": "650000",
+    "review": "(2000)",
+    "sold": "10/12",
+    "sale": "50%"
+  },
+  {
+    "id": "Recommend11",
+    "image": "/Recommend/product-img11.png",
+    "title": "ماست کم‌چرب با طعم توت‌فرنگی لوسرن دیری فارم",
+    "price": "400000",
+    "lessprice": "560000",
+    "review": "(30000)",
+    "sold": "18/30",
+    "sale": "50%"
+  },
+  {
+    "id": "Recommend12",
+    "image": "/Recommend/product-img12.png",
+    "title":"آب پرتقال ۱۰۰٪ طبیعی تروپیکانا بدون پالپ",
+    "price": "170000",
+    "lessprice": "250000",
+    "review": "(1700)",
+    "sold": "18/35",
+    "sale": "New"
+  }
+]

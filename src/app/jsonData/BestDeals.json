@@ -1,0 +1,47 @@
+[
+  {
+    "id":"BestDeals1",
+    "image":"/BestDeals1/product-img1.png",
+    "title":"سالاد شیرازی با بادمجان کبابی (ترکیب مدرن)",
+    "price":"200000",
+    "lessprice":"250000",
+    "review":"(1700)",
+    "sold":"18/35"
+   },
+    {
+    "id":"BestDeals2",
+    "image":"/BestDeals1/product-img2.png",
+    "title":"سالاد ارگانیک با بهترین سبزیجات",
+    "price":"200000",
+    "lessprice":"220000",
+    "review":"(1900)",
+    "sold":"22/40"
+  },
+  {
+    "id":"BestDeals3",
+    "image":"/BestDeals1/product-img3.png",
+    "title":"بسته سبزیجات تازه مخلوط",
+    "price":"89000",
+    "lessprice":"100000",
+    "review":"(1900)",
+    "sold":"15/25"
+  },
+   {
+    "id":"BestDeals4",
+    "image":"/BestDeals1/product-img5.png",
+    "title":"کشمش ارگانیک",
+    "price":"600000",
+    "lessprice":"650000",
+    "review":"(22000)",
+    "sold":"15/25"
+  },
+   {
+    "id":"BestDeals5",
+    "image":"/BestDeals1/product-img6.png",
+    "title":"چیپس ترتیلا دوریتوس با طعم فلفل چیلی شیرین و تند",
+    "price":"550000",
+    "lessprice":"600000",
+    "review":"(11000)",
+    "sold":"20/30"
+  }
+]

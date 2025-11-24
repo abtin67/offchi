@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "فروشگاه ارگانیک",
+    "time": "تحویل تا 1 ساعت",
+    "off": "200 هزار تخفیف روی تنقلات و شیرینی",
+    "vendormain": "/vendor-logo1.png",
+    "vendors": [
+      "/vendor-img3.png",
+      "/vendor-img4.png",
+      "/vendor-img5.png"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "فروشگاه ارگانیک",
+    "time": "تحویل تا 1 ساعت",
+    "off": "200 هزار تخفیف روی تنقلات و شیرینی",
+    "vendormain":  "/vendor-logo2.png",
+    "vendors": [
+      "/vendor-img3.png",
+      "/vendor-img4.png",
+      "/vendor-img5.png"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "فروشگاه ارگانیک",
+    "time": "تحویل تا 1 ساعت",
+    "off": "200 هزار تخفیف روی تنقلات و شیرینی",
+    "vendormain": "/vendor-logo3.png",
+    "vendors": [
+      "/vendor-img3.png",
+      "/vendor-img4.png",
+      "/vendor-img5.png"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "فروشگاه  ارگانیک",
+    "time": "تحویل تا 1 ساعت",
+    "off": "200 هزار تخفیف روی تنقلات و شیرینی",
+    "vendormain": "/vendor-logo4.png",
+    "vendors": [
+      "/vendor-img3.png",
+      "/vendor-img4.png",
+      "/vendor-img5.png"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "فروشگاه  ارگانیک",
+    "time": "تحویل تا 1 ساعت",
+    "off": "200 هزار تخفیف روی تنقلات و شیرینی",
+    "vendormain": "/vendor-logo5.png",
+    "vendors": [
+      "/vendor-img3.png",
+      "/vendor-img4.png",
+      "/vendor-img5.png"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "فروشگاه  ارگانیک",
+    "time": "تحویل تا 1 ساعت",
+    "off": "200 هزار تخفیف روی تنقلات و شیرینی",
+    "vendormain": "/vendor-logo6.png",
+    "vendors": [
+      "/vendor-img3.png",
+      "/vendor-img4.png",
+      "/vendor-img5.png"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "فروشگاه  ارگانیک",
+    "time": "تحویل تا 1 ساعت",
+    "off": "200 هزار تخفیف روی تنقلات و شیرینی",
+    "vendormain": "/vendor-logo7.png",
+    "vendors": [
+      "/vendor-img3.png",
+      "/vendor-img4.png",
+      "/vendor-img5.png"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "فروشگاه ارگانیک",
+    "time": "تحویل تا 1 ساعت",
+    "off": "200 هزار تخفیف روی تنقلات و شیرینی",
+    "vendormain": "/vendor-logo8.png",
+    "vendors": [
+      "/vendor-img3.png",
+      "/vendor-img4.png",
+      "/vendor-img5.png"
+    ]
+  }
+]
