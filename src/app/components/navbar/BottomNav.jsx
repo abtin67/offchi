@@ -15,7 +15,7 @@ const navLink = [
     href: "/UI-Components/Shop",
     dropdown: [
       { label: "فروشگاه", href: "/UI-Component/Shop" },
-      { label: "Shop Details", href: "" },
+      { label: "Shop Details", href: "/UI-Component/Shop" },
     ],
   },
   {
@@ -206,6 +206,7 @@ export default function BottomNav() {
                       {link.dropdown.map((item) =>
                         item.label === "Shop Details" ? (
                           <Link
+                          onClick={()=>mobileMenuOpen(false)}
                             href={{
                               pathname: "/UI-Components/Shop",
                               query: {},
@@ -217,6 +218,7 @@ export default function BottomNav() {
                           </Link>
                         ) : (
                           <Link
+                          onClick={()=>mobileMenuOpen(false)}
                             key={item.label}
                             href={item.href}
                             className="block px-4 py-2 rounded-md bg-[e6f9ef] transition-all"
@@ -229,7 +231,7 @@ export default function BottomNav() {
                   </div>
                 </div>
               ) : (
-                <Link key={link.label} href={link.href}>
+                <Link onClick={()=>mobileMenuOpen(false)} key={link.label} href={link.href}>
                   {link.label}
                 </Link>
               )

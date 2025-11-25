@@ -287,12 +287,13 @@ export default function ProductDetails({ id, products }: Props) {
             </div>
 
             {/* آخرین معاملات/پیشنهادها */}
-            <div className="mt-8">
-              <Deals />
-            </div>
+           
           </div>
         </div>
       </div>
+       <div className="mt-8">
+              <Deals />
+            </div>
     </>
   );
 }
