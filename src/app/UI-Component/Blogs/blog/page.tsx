@@ -36,9 +36,9 @@ export default function Blogs(){
                       <h2 className="text-2xl">وبلاگ</h2>
                       <div className="flex">
                         <Link href={`/`} className="text-2xl">
-                          صفحه اصلی &nbsp;:
+                          صفحه اصلی &nbsp;
                         </Link>
-                        <h2 className="text-2xl text-[#299e60]">&nbsp;وبلاگ</h2>
+                        <h2 className="hidden md:block text-2xl text-[#299e60]">&nbsp;:وبلاگ</h2>
                       </div>
                     </div>
                   </div>
